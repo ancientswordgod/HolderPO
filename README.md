@@ -5,7 +5,9 @@ RL fine-tuning of math-reasoning LLMs with the Hölder-MPO objective. Built on t
 [`understand-r1-zero`](https://github.com/sail-sg/understand-r1-zero) math
 pipeline (under `understand_r1_zero_main/`).
 
-> The agent / ALFWorld variant lives on the [`agentic`](../../tree/agentic) branch.
+> This is the **`agentic`** branch — it includes everything on `main` (math)
+> plus the ALFWorld code under [`alfworld/`](alfworld/). See
+> [`alfworld/HOLDER.md`](alfworld/HOLDER.md) for the agent-side entry point.
 
 ## Setup
 
